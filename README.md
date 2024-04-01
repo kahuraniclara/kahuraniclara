@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **House Management Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **coding**
 
-- 💬 Ask me about **Network Security**
+- 💬 Ask me about **...**
 
 - 📫 How to reach me **clara.kahurani@gmail.com**
 
