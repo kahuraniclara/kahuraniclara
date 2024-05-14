@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Clara Kahurani</h1>
-<h3 align="center">Beginner Developer</h3>
+<h3 align="center"> Junior Developer</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kahuraniclara&label=Profile%20views&color=0e75b6&style=flat" alt="kahuraniclara" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **House Management Project**
+- 🔭 I’m currently working on **Portofolio/ Personal Website**
 
 - 🌱 I’m currently learning **coding**
 
